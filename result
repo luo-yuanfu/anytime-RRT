@@ -1,0 +1,128 @@
+0.5 second
+cost: 3.04765
+cost: 2.91553
+
+cost: 3.57374
+cost: 3.0142
+cost: 2.74511
+
+cost: 2.95107
+cost: 2.83116
+
+1 second
+cost: 3.57374
+cost: 3.0142
+cost: 2.74511
+
+
+cost: 3.22863
+cost: 2.85441
+cost: 2.74007
+
+cost: 3.41536
+cost: 2.91363
+cost: 2.79494
+cost: 2.65207
+
+1.5 seconds
+cost: 3.05609
+cost: 2.93113
+cost: 2.79429
+cost: 2.68251
+
+2 seconds
+cost: 2.93417
+cost: 2.81486
+cost: 2.70159
+cost: 2.59255
+
+cost: 3.0958
+cost: 2.97083
+cost: 2.85101
+cost: 2.71992
+cost: 2.61089
+
+cost: 3.10276
+cost: 2.83807
+cost: 2.72282
+
+2.5 seconds
+cost: 2.93381
+cost: 2.8162
+cost: 2.63841
+cost: 2.53236
+
+3 seconds
+cost: 3.11727
+cost: 2.97087
+cost: 2.81374
+cost: 2.70113
+cost: 2.59216
+cost: 2.45975
+
+cost: 2.9602
+cost: 2.83846
+cost: 2.72477
+cost: 2.61542
+cost: 2.5108
+cost: 2.40587
+
+cost: 3.17616
+cost: 2.9271
+cost: 2.78742
+cost: 2.67581
+
+3.5 seconds
+cost: 3.123
+cost: 2.91603
+cost: 2.79866
+cost: 2.68671
+cost: 2.57754
+cost: 2.46105
+
+4 seconds
+cost: 3.30953
+cost: 3.05004
+cost: 2.89596
+cost: 2.63155
+cost: 2.52578
+cost: 2.41999
+
+
+cost: 3.12304
+cost: 2.9571
+cost: 2.81121
+cost: 2.63537
+cost: 2.51689
+cost: 2.39844
+
+cost: 3.2475
+cost: 2.91102
+cost: 2.78422
+cost: 2.65274
+cost: 2.54566
+cost: 2.4437
+
+3 robots in 4 seconds
+cost: 6.27233
+cost: 5.75879
+cost: 5.45807
+cost: 5.22868
+cost: 4.95193
+
+cost: 6.17807
+cost: 5.80175
+cost: 5.46128
+cost: 5.0598
+cost: 4.77455
+cost: 4.47063
+
+cost: 6.03237
+cost: 5.72562
+cost: 5.28747
+cost: 4.88021
+cost: 4.64787
+
+in one run
+three robots cost: 5.78483
+one robot cost: 3.1865
